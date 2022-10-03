@@ -1,0 +1,15 @@
+.viewBtn{
+    border: 1px solid white;
+    background-color: rgb(239, 178, 245);
+    color: white;
+    border-radius: 10px;
+    margin: 3.5px;
+}
+#sidenav-main li a:hover{
+    background-color: rgb(252, 220, 246);
+    border-radius: 10px;
+}
+#sidenav-main li a{
+    /* background-color: rgb(253, 176, 240); */
+    border-radius: 10px;
+}

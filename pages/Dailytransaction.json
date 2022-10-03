@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ayo",
+        "amount": 200,
+        "status": "pending",
+        "date": "12/5/2014"
+    },
+    {
+        "name": "ayotayo",
+        "amount": 1000,
+        "status": "sucessful",
+        "date": "12/5/2024"
+    },
+    {
+        "name": "tobiloba",
+        "amount": 500,
+        "status": "failed",
+        "date": "12/5/1998"
+    },
+    {
+        "name": "opeyemi",
+        "amount": 80987,
+        "status": "sucessful",
+        "date": "12/5/2024"
+    },
+    {
+        "name": "opeyemi",
+        "amount": 10000,
+        "status": "sucessful",
+        "date": "12/5/2024"
+    },
+    {
+        "name": "ibrahim",
+        "amount": 580,
+        "status": "failed",
+        "date": "12/5/2024"
+    }
+]
